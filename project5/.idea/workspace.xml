@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31ef57b0-562e-47fd-a623-bbc674ab5f79" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/pro_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/pro_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_web_api_8_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dealLogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/zy.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/.idea/artifacts/t4_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/.idea/artifacts/t4_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/.idea/libraries/Maven__javax_javaee_web_api_8_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/src/main/webapp/login/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/src/main/webapp/login/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/src/main/webapp/login/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/src/main/webapp/session.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/src/main/webapp/shopping/buy.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/src/main/webapp/shopping/cart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/src/main/webapp/shopping/check.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/src/main/webapp/shopping/drink.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/src/main/webapp/shopping/fruit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/src/main/webapp/shopping/head.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/src/main/webapp/shopping/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/src/main/webapp/shopping/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/src/main/webapp/shopping/logout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/src/main/webapp/shopping/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/t4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/target/t4-1.0-SNAPSHOT/login/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/target/t4-1.0-SNAPSHOT/login/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/target/t4-1.0-SNAPSHOT/login/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/target/t4-1.0-SNAPSHOT/session.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/target/t4-1.0-SNAPSHOT/shopping/buy.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/target/t4-1.0-SNAPSHOT/shopping/cart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/target/t4-1.0-SNAPSHOT/shopping/check.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/target/t4-1.0-SNAPSHOT/shopping/drink.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/target/t4-1.0-SNAPSHOT/shopping/fruit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/target/t4-1.0-SNAPSHOT/shopping/head.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/target/t4-1.0-SNAPSHOT/shopping/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/target/t4-1.0-SNAPSHOT/shopping/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/target/t4-1.0-SNAPSHOT/shopping/logout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project4/target/t4-1.0-SNAPSHOT/shopping/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project5/.idea/artifacts/project5_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project5/.idea/artifacts/project5_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project5/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project5/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project5/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project5/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project5/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project5/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project5/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project5/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project5/project5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/project5/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/.idea/IdeaLearningProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/.idea/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/feature-trainer-version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/src/BufferedReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/src/DerivedClass1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/src/DerivedClass2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/src/FileStructureDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/src/InheritanceHierarchySample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/src/QuadraticEquationsSolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/src/RecentFilesDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/src/SomeInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/src/util/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/src/warehouse/FindInFilesSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaLearningProject/src/warehouse/Warehouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/artifacts/t4_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/artifacts/t4_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/libraries/Maven__javax_javaee_web_api_8_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/src/main/webapp/login/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/src/main/webapp/login/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/src/main/webapp/login/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/src/main/webapp/session.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/src/main/webapp/shopping/buy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/src/main/webapp/shopping/cart.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/src/main/webapp/shopping/check.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/src/main/webapp/shopping/drink.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/src/main/webapp/shopping/fruit.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/src/main/webapp/shopping/head.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/src/main/webapp/shopping/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/src/main/webapp/shopping/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/src/main/webapp/shopping/logout.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/src/main/webapp/shopping/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/t4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/target/t4-1.0-SNAPSHOT/login/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/target/t4-1.0-SNAPSHOT/login/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/target/t4-1.0-SNAPSHOT/login/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/target/t4-1.0-SNAPSHOT/session.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/target/t4-1.0-SNAPSHOT/shopping/buy.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/target/t4-1.0-SNAPSHOT/shopping/cart.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/target/t4-1.0-SNAPSHOT/shopping/check.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/target/t4-1.0-SNAPSHOT/shopping/drink.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/target/t4-1.0-SNAPSHOT/shopping/fruit.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/target/t4-1.0-SNAPSHOT/shopping/head.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/target/t4-1.0-SNAPSHOT/shopping/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/target/t4-1.0-SNAPSHOT/shopping/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/target/t4-1.0-SNAPSHOT/shopping/logout.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project4/target/t4-1.0-SNAPSHOT/shopping/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/project5_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/project5_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project5.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1qQNCIdx8wVw6QiJYfs4BJiA1Ls" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.43" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.43" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="pro:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/pro_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="0d7eef20-85b9-4dd4-abbb-a97e9bd6050a" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="pro:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="31ef57b0-562e-47fd-a623-bbc674ab5f79" name="默认变更列表" comment="" />
+      <created>1617007725045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617007725045</updated>
+      <workItem from="1617007726176" duration="1375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
