@@ -1,0 +1,32 @@
+body{
+	background : #FFFFFF；
+	margin:15;
+	}
+body, table, td, input{
+	font - family:Tahoma,Verdana,Arial,Helvetica,sans - serif;
+	font - size:10px;
+	}
+h2{
+	color:#000FFF;
+	font - family:仿宋;
+	font - weight:bold;
+	font - size:20px;
+	text - align:center;
+	}
+	table{
+		border:1px solid #FFFFFF；
+		border - collapse:collapse;
+		}
+	table th{
+	color:#2467FA;
+	background:#DADADA;
+	font - family:仿宋;
+	font - size:13px;
+	border:1px solid #FFFFFF;
+	}
+	table td{
+		
+		background:#F1F1F1;
+		tex - align:center;
+		border:1px solid #FFFFFF;
+		}
