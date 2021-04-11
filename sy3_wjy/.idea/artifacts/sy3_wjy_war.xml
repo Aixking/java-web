@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sy3_wjy:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sy3_wjy</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sy3_wjy-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="sy3_wjy:war exploded" />
+    </root>
+  </artifact>
+</component>
