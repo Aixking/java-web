@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>搜索歌曲</title>
+    <link rel="stylesheet" href="music.css" type="text/css">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+<h2 align="center">搜索歌曲</h2>
+<form name="form1" onSubmit="return check()" action="searchmusic.jsp" method="post">
+    <table align="center" width="30%" border="1">
+        <tr><th>曲名：</th>
+            <td><input type="text" name="musicname"></td></tr>
+        <tr><th>歌手：</th>
+            <td><input type="text" name="singer"></td></tr>
+        <tr><th colspan="2">
+            <input type="submit" value="搜索">
+            <input type="reset" value="重置"></th></tr>
+    </table>
+</form>
+</body>
+</html>
