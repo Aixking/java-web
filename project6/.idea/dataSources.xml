@@ -2,10 +2,10 @@
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="test@localhost" uuid="05065a58-8a7e-4ec2-b34f-dc73deb13628">
-      <driver-ref>mysql.8</driver-ref>
+      <driver-ref>mysql_aurora</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/book</jdbc-url>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql:aurora://localhost:3306/book</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
       <driver-properties>
         <property name="serverTimezone" value="UTC" />
@@ -13,6 +13,13 @@
       <time-zone>UTC</time-zone>
     </data-source>
     <data-source source="LOCAL" name="User Data Source" uuid="8d7fc953-1c45-4d3c-9068-abbe1a9b173d">
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>java.sql.Driver</jdbc-driver>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="User Data Source [2]" uuid="f9d19f56-ba44-4f6a-ad7d-502bd45eab4b">
+      <driver-ref>cd2d3bfc-76b0-4e99-af70-9a27fd3b8bd3</driver-ref>
       <synchronize>true</synchronize>
       <configured-by-url>true</configured-by-url>
       <jdbc-driver>java.sql.Driver</jdbc-driver>
